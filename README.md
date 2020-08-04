@@ -10,5 +10,7 @@ Repository
 git init
 git add .
 git commit -m "<imperative case> command"
+git push
 
 #This is My Name
+Elliott
