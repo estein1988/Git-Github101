@@ -7,5 +7,8 @@ Staging Area
 Repository
 
 #Commands for moving through states of Git
+git init
+git add .
+git commit -m "<imperative case> command"
 
 #This is My Name
